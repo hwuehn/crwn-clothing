@@ -1,6 +1,6 @@
 /* Used as starting data for Directory */
 
-const SECTIONS_DATA = [
+const INITIAL_STATE = [
     {
         title: 'hats',
         // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
@@ -41,4 +41,4 @@ const SECTIONS_DATA = [
     }
 ];
 
-export default SECTIONS_DATA;
+export default INITIAL_STATE;
